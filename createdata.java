@@ -312,7 +312,7 @@ public class createdata {
   {
     String username, password;
 	username = "tic30";
-	password = "3853184";
+	password = "yourpassword"; //This is your password in oracle / propleSoft ID
 	
 	try{
 		System.out.print("Registering DB..");
