@@ -714,7 +714,7 @@ public class FaceSpace {
 
     String username, password;
 	username = "tic30"; //This is your username in oracle
-	password = "3853184"; //This is your password in oracle
+	password = "yourpassword"; //This is your password in oracle / propleSoft ID
 	String again = "y";
 	
 	try{
